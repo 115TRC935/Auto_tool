@@ -1,0 +1,2 @@
+('click', (550, 315), 1, True)
+('special_incremental_text', 100, 1, False)
